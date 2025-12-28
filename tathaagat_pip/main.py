@@ -1,2 +1,2 @@
 def example():
-    print("asddfasaf")
+    print("Hello there this is a wip package")
